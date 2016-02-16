@@ -15,7 +15,7 @@ We are planning to retrieve the data from twitter using Tweepy API (https://gith
 
 
 # RESEARCH QUESTIONS
-We're going to explore a test set of tweets about Oscars, specifically tweets which included the hashtag#OscarsSoWhite,and the Tweepy API was used for obtaining the data from Twitter.
+We're going to explore a test set of tweets about Oscars, specifically tweets which included the hash tag #OscarsSoWhite,and the Tweepy API was used for obtaining the data from Twitter.
 Exploratory data analysis of Twitter data.  
 Development of API  to classify text; endpoints non-functional until classifiers complete  
 Development of classifiers; creation of test and training sets; tuning of classifiers.   
@@ -57,6 +57,6 @@ These tables show  examples of the data that should go into each column and row.
 
 | Checkpoint date | Expected Deliverable                                                          | Responsible team member(s) | Checkpoint results                                                                                                                  |
 |---------------|-------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
-|2/14/16| Exploring data analysis of  Twitter API Access data set through standard authentication mechanisms .  | Arya Krishna, Srinivas Attili, Vennel mudireddy| Meets project proposal check point 1 |
+|2/13/16| Exploring data analysis of  Twitter API Access data set through standard authentication mechanisms .  | Arya Krishna, Srinivas Attili, Vennel mudireddy| Meets project proposal check point 1 |
 |     ...          | -- | --                    |  -- |
 
