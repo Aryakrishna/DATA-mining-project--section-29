@@ -17,7 +17,7 @@ We are planning to retrieve the data from twitter using Tweepy API (https://gith
 # RESEARCH QUESTIONS
 We're going to explore a test set of tweets about Oscars, specifically tweets which included the hash tag #OscarsSoWhite,and the Tweepy API was used for obtaining the data from Twitter.
 Exploratory data analysis of Twitter data.  
-Development of API  to classify text; endpoints non-functional until classifiers complete  
+Development of API  to classify text; endpoints non-functional until classifiers complete.
 Development of classifiers; creation of test and training sets; tuning of classifiers.   
 Development of build and deployment script.  Development of API test harness.
 
@@ -46,8 +46,8 @@ These tables show  examples of the data that should go into each column and row.
 | Team member | Roles and skills | Contributions |
 |-------------|-------------------------|---------------------------------------------|
 | Arya Krishna| API development ,data analysis, Python|  Web API ,Data Analysis  |
-| Srinivas Attili| Data analysis ,Testing | build scripts , data analysis, testing |
-| Vennel Mudireddy| Testing ,Data analysis  |  Data analysis, test harness; build scripts.|
+| Srinivas Attili| Data analysis ,Testing,scripting | build scripts , data analysis, testing |
+| Vennel Mudireddy| Testing ,Data analysis ,scripting |  Data analysis, test harness; build scripts.|
 
 ## DELIVERABLES AND CHECKPOINTS
 
@@ -59,7 +59,6 @@ These tables show  examples of the data that should go into each column and row.
 |---------------|-------------------------------------------------------------------------------|----------------------------|-------------------------------------------------------------------------------------------------------------------------------------|
 |2/13/16| Exploring data analysis of  Twitter API Access data set through standard authentication mechanisms .  | Arya Krishna, Srinivas Attili, Vennel mudireddy| Meets project proposal check point 1 |
 |  3/15/16  | As of no We are creating a streaming script which collects data from twitter as per the twitter policy there are curtain   limitation on number of request you make per day. Using the API http://textprocessing.com/api/sentiment to see if initial results match our criteria. |  Arya Krishna, Srinivas Attili                   |   |
-| 3/20/16 |   We Will upload the complete data set and initial project code . As per answer/update the research question it will depend upon the results we see in the initial analysis | Arya Krishna, Vennel mudireddy  |                      |
-| 4/3/16 | Complete the coding and simultaneous testing will be done by group all the group members to ensure the quality of the result.  | Arya Krishna, Srinivas Attili |                      |
-| 4/17/16 | Finalize the testing phase and check the results and submit for feedback. | Arya Krishna, Srinivas Attili  |           |
-| 4/29/16 | To present a final report.  | Arya Krishna,Vennel mudireddy  |           |
+| 4/11/16 | coding in progress and by next checkpoint we would come up with prelimeary results | Arya Krishna, Srinivas Attili |                     |
+| 4/21/16 |Complete the coding and simultaneous testing will be done by group all the group members to ensure the quality of the result.   | Arya Krishna, Srinivas Attili  |           |
+| 4/29/16 |Finalize the testing phase and check the results and submit for feedback.To present a final report.  | Arya Krishna,Vennel mudireddy  |           |
